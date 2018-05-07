@@ -1,5 +1,7 @@
+# Eric Zhang and Sean Hawkins
+# May 6, 2018
 # DartDASH
-A website for the Android smartphone application DartDASH
+A website for the Android smartphone application DartDASH as part of the CS65 project.
 
 ## Special Thanks
 Great thanks to the template from Colorlib, it can be found here:
